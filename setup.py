@@ -8,7 +8,6 @@ setup(
     author = 'Giorgos Logiotatidis',
     author_email = 'giorgos@mozilla.com',
     url = 'https://github.com/glogiotatidis/imhotep_flake8',
-    download_url = 'https://github.com/glogiotatidis/imhotep_flake8/tarball/0.1', 
     keywords = ['testing', 'imhotep'], 
     classifiers = [],
     requires=['flake8'],
