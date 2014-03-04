@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
     name = 'imhotep_flake8',
     packages = ['imhotep_flake8'], 
-    version = '0.1.1',
+    version = '0.2.0',
     description = 'An imhotep plugin for flake8 validation.',
     author = 'Giorgos Logiotatidis',
     author_email = 'giorgos@mozilla.com',
