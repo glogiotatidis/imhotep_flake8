@@ -10,6 +10,7 @@ setup(
     url = 'https://github.com/glogiotatidis/imhotep_flake8',
     keywords = ['testing', 'imhotep'], 
     classifiers = [],
+    install_requires=['flake8'],
     requires=['flake8'],
     entry_points={
         'imhotep_linters': [
